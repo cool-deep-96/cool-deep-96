@@ -5,9 +5,8 @@ I'm a Computer Science student at UIET, Rohtak, passionate about problem-solving
 
 ## Skills
 - C/C++
-- JavaScript
-- Python
-- Database Management
+- JavaScript : Reactjs, Expressjs, Electronjs
+- Database Management : sql, mongodb
 - Fullstack Web Development
 
 ## Connect with Me
