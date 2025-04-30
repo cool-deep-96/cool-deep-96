@@ -14,7 +14,6 @@ I'm a Computer Science student at UIET, Rohtak, passionate about problem-solving
 - **LinkedIn:** [Kuldeep Kumar](https://www.linkedin.com/in/cool-deep96/)
 - **LeetCode:** [Profile](https://leetcode.com/u/cool_deep_96/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cool-deep-96&layout=compact)
 # 📊 GitHub Stats:
 <p align="center">
   <img height="300em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=cool-deep-96&theme=react&hide_border=true" />
